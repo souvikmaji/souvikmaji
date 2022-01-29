@@ -5,7 +5,7 @@
 - 👯 I’m looking to collaborate on anything that makes people's live better.
 - 🤔 I’m looking for help with learning new stuff.
 - 💬 Ask me about anything server side.
-- 📫 How to reach me: ...
+- 📫 How to reach me: ![image](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)
 - ⚡ Here's a Random Image for you:
 
-![](https://source.unsplash.com/random/?dev,coding)
+
