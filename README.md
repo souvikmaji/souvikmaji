@@ -11,14 +11,13 @@
 
 - 👨‍💻 All of my projects are available at [github.com/souvikmaji](github.com/souvikmaji)
 
-- 📝 I regularly write articles on [<blog_link>](<blog_link>)
-
 - 💬 Ask me about **scaling softwares.**
 
 - 📄 Know about my experiences [<resume_link>](<resume_link>)
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
+<a href="https://twitter.com/downtherabbithole" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="downtherabbithole" height="30" width="40" /></a>
 <a href="https://linkedin.com/in/souvikmaji" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="souvikmaji" height="30" width="40" /></a>
 <a href="https://stackoverflow.com/users/3198508" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/stack-overflow.svg" alt="3198508" height="30" width="40" /></a>
 <a href="https://www.hackerrank.com/souvik94" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hackerrank.svg" alt="souvik94" height="30" width="40" /></a>
