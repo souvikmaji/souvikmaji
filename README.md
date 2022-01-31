@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Souvik</h1>
-<h3 align="center">A passionate backend software developer from India</h3>
+<h3 align="center">A passionate backend engineer from India</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=souvikmaji&label=Profile%20views&color=0e75b6&style=flat" alt="souvikmaji" /> </p>
 
@@ -17,7 +17,7 @@
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
-<a href="https://twitter.com/downtherabbithole" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="downtherabbithole" height="30" width="40" /></a>
+<a href="https://twitter.com/downthe97408076" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="downthe97408076" height="30" width="40" /></a>
 <a href="https://linkedin.com/in/souvikmaji" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="souvikmaji" height="30" width="40" /></a>
 <a href="https://stackoverflow.com/users/3198508" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/stack-overflow.svg" alt="3198508" height="30" width="40" /></a>
 <a href="https://www.hackerrank.com/souvik94" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hackerrank.svg" alt="souvik94" height="30" width="40" /></a>
