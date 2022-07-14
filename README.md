@@ -13,7 +13,7 @@
 
 - 💬 Ask me about **scaling softwares.**
 
-- 📄 Know about my experiences [<resume_link>](<resume_link>)
+- 📄 Know about my experiences [<https://registry.jsonresume.org/souvikmaji>](<https://registry.jsonresume.org/souvikmaji>)
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
