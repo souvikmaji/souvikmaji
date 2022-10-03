@@ -5,9 +5,11 @@
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=souvikmaji" alt="souvikmaji" /></a> </p>
 
-- 🔭 I’m currently working at **@Razorpay**
+[![@souvikmaji94's Holopin board](https://holopin.io/api/user/board?user=souvikmaji94)](https://holopin.io/@souvikmaji94)
 
-- 🌱 I’m currently learning **laravel**
+- 🔭 I’m currently working at **@Fairmatic**
+
+- 🌱 I’m currently learning **Python**
 
 - 👨‍💻 All of my projects are available at [github.com/souvikmaji](github.com/souvikmaji)
 
