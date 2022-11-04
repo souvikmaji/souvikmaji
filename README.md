@@ -5,7 +5,6 @@
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=souvikmaji" alt="souvikmaji" /></a> </p>
 
-[![@souvikmaji94's Holopin board](https://holopin.io/api/user/board?user=souvikmaji94)](https://holopin.io/@souvikmaji94)
 
 - 🔭 I’m currently working at **@Fairmatic**
 
@@ -34,3 +33,5 @@
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=souvikmaji&show_icons=true&locale=en" alt="souvikmaji" /></p>
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=souvikmaji&" alt="souvikmaji" /></p>
+
+[![@souvikmaji94's Holopin board](https://holopin.io/api/user/board?user=souvikmaji94)](https://holopin.io/@souvikmaji94)
